@@ -1,0 +1,36 @@
+.newsTable {
+    margin-top: 50px;
+}
+
+.newsHeadColumn {
+    font-weight: bold;
+}
+
+.newsRow {
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 2px;
+}
+
+.newsColumn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heartColumn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heartIcon {
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+.outlineHeartIcon {
+    font-size: 20px;
+    cursor: pointer;
+}

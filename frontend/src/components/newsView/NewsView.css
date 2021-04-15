@@ -1,0 +1,19 @@
+.newsContainer {
+    width: 40% !important;
+    text-align: left;
+}
+
+.newsDescription {
+    color: #757575;
+    font-size: 1.3em;
+    margin-top: 20px;
+}
+
+.newsContent {
+    margin-top: 20px;
+}
+
+.sourceLink {
+    right: 0;
+    position: absolute;
+}
